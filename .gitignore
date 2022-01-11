@@ -1,0 +1,12 @@
+# Xcode
+## Build generated
+build/
+DerivedData/ 
+
+## Various settings
+*.pbxuser
+*.xcworkspacedata
+xcuserdata/
+
+# Misc
+.DS_Store
